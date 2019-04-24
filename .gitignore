@@ -124,7 +124,7 @@ dmypy.json
 
 #dataset
 Cirrhotics10/
-Normals/
+Normals10/
 Dataset/
 Output_Images/
 Photos_for_Powerpoint/
